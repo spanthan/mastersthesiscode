@@ -139,7 +139,3 @@ To ensure reproducibility:
 
 If you use this pipeline in your research, please cite appropriately.
 
-## License
-
-[Add your license here]
-
